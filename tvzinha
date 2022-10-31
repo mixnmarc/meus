@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Perfect Blue tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKroQfJCkWg4MfivBsMIwGy7ueZRCO4SLg-Q&usqp=CAU"
+#EXTINF:-1 tvg-name="Perfect Blue" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKroQfJCkWg4MfivBsMIwGy7ueZRCO4SLg-Q&usqp=CAU" group-title,="filminhos",
 https://s-delivery40.mxdcontent.net/v/dca156d59e6b4b14ec825bf1970c2500.mp4?s=bXXG3KV6xVTyWmTpsGCOrw&e=1667196076&_t=1667182013
